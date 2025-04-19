@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkumar215" alt="vishalkumar215" /></a> </p>
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on **Frontend Developer Specializing in React jsali**
+
+- 🔭 I’m currently working on **Frontend Developer Specializing in React js**
 
 - 🌱 I’m currently Exploring **Cloud Technologies focusing on AWS.**
 
