@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Javascript, React js,Data Structures, SQL.**
 
-- 📫 How to reach me **<a href="mailto:vishalchoubey2@gmail.com" target="blank">Email</a>|| <a href="https://www.linkedin.com/in/vishal-kumar-2064bb201/" target="blank">linkedin</a>**
+- 📫 How to reach me **<a href="mailto:vishalchoubey2@gmail.com" target="blank"> Email</a> || <a href="https://www.linkedin.com/in/vishal-kumar-2064bb201/" target="blank">linkedin</a>**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CbKCjRRWzogdOGLM3rlzPCUX17bSVLJL/view?usp=drive_link)
+- 📄 Know about my experiences [ Resume Link ](https://drive.google.com/file/d/1CbKCjRRWzogdOGLM3rlzPCUX17bSVLJL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
